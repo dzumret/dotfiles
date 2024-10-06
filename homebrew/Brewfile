@@ -53,12 +53,12 @@ brew "zoxide"
 brew "lazygit"
 # Application uninstaller
 cask "appcleaner"
-# Web browser focusing on privacy
-cask "brave-browser"
 # Universal database tool and SQL client
 cask "dbeaver-community"
 # App to build and share containerized applications and microservices
 cask "docker"
+# Firefox web browser
+cask "firefox"
 # Developer targeted fonts with a high number of glyphs
 cask "font-hack-nerd-font"
 # Developer targeted fonts with a high number of glyphs
