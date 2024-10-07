@@ -58,6 +58,8 @@ quick_commit() {
 alias gqc='quick_commit'
 alias gqcp='quick_commit push'
 
+alias gpno='cd ~/repos/notebooks/ && git add . && git commit -m "notes update" && git push'
+
 # Neovim
 # If poetry is installed and an environment exists, run "poetry run nvim"
 poetry_run_nvim() {
